@@ -1,1 +1,2 @@
 Just a file
+Second line
