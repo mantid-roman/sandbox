@@ -1,9 +1,1 @@
 Just a file
-Second line
-Third line
-
-Testing line
-
-Github line
-
-Another testing line
