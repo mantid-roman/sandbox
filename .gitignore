@@ -1,0 +1,3 @@
+# Ignore text editor (e.g. emacs) autosave files
+*~
+
